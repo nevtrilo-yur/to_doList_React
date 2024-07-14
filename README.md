@@ -1,1 +1,1 @@
-https://nevtrilo-yur.github.io/todo_list/
+https://nevtrilo-yur.github.io/to_doList_React/

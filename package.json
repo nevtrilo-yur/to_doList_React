@@ -2,7 +2,7 @@
   "name": "to_do_list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nevtrilo-yur.github.io/todo_list",
+  "homepage": " https://nevtrilo-yur.github.io/to_doList_React",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
